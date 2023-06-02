@@ -51,3 +51,17 @@
     background-color:darkgray;
 
 }
+.parte4{
+    align-items: center;
+    display: contents;
+   
+
+
+}
+.parte4 h2{
+    color: white;
+    margin-left: 1.5%;
+}
+.bodyLogin{
+    background-color: darkgray;
+}
