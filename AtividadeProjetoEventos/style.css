@@ -1,0 +1,53 @@
+#bodyChamp{
+    background-color: cornflowerblue;
+}
+.parte1 img{
+    width: 40%;
+    height: 90%;
+}
+.parte1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.parte1 h1{
+    color: white;
+    font-size: 35px;
+    margin-left: 1%;
+}
+.parte2.text{
+   
+}
+.text h1{
+    color: white;
+    
+}
+.parte2 img{
+     width: 40%;
+    height: 90%;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+   
+
+}
+.parte2 h3{
+    color: white;
+    font-size: 15px;
+}
+.text1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.footer{
+    background-color: cornflowerblue;
+
+}
+.bodyCadastro{
+    background-color:darkgray;
+
+}
