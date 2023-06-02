@@ -20,6 +20,7 @@
 }
 .text h1{
     color: white;
+    margin-top: 2%;
     
 }
 .parte2 img{
@@ -36,15 +37,13 @@
 .parte2 h3{
     color: white;
     font-size: 15px;
+    
+  
 }
 .text1{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-}
-.footer{
-    background-color: cornflowerblue;
 
 }
 .bodyCadastro{
@@ -64,4 +63,63 @@
 }
 .bodyLogin{
     background-color: darkgray;
+}
+#bodyLigaE{
+    background-color: orangered;
+}
+#bodyLigaE .parte1 img{
+    width: 40%;
+    height: 90%;
+    
+
+}
+#bodyLigaE .parte1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.parte5{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.parte5 img{
+    width: 40%;
+    height: 90%;
+
+
+}
+#bodyLigaE .parte1 h2{
+    color: white;
+    margin-left: 1%;
+   
+}
+.parte5 h1{
+    color: white;
+    margin-top:1.5%;
+  
+
+}
+.parte6{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.parte6 h3{
+    margin-top: 0%;
+    color: white;
+}
+.parte7{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+
+    
+}
+.parte7 img{
+    width: 40%;
+    height: 90%;
+
 }
