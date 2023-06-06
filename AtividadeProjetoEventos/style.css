@@ -123,3 +123,10 @@
     height: 90%;
 
 }
+#bodyConference{
+    background-color: green;
+    margin: 0;
+}
+.navbar-brand{
+    justify-content: left;
+}
