@@ -13,17 +13,17 @@ let Estado= document.getElementById('inputState').value;
             alert("Preencha o seu Nome");
             
         }
-       else if  (Email=="") {
+        if  (Email=="") {
             alert("Preencha o seu Email");
             
         }
     
-      else  if (Senha=="") {
+       if (Senha=="") {
             alert("Coloque a sua Senha")
             
         }
        
-       else if (Endereco=="") {
+        if (Endereco=="") {
         alert("Preencha seu Endereço")
        } 
     }
